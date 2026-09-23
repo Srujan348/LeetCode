@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Srujan348/LeetCode/tree/master/0877-stone-game) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan348/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3525-find-x-value-of-array-ii](https://github.com/Srujan348/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Srujan348/LeetCode/tree/master/0877-stone-game) |
 | [3525-find-x-value-of-array-ii](https://github.com/Srujan348/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Segment Tree
 |  |
@@ -30,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan348/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Srujan348/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Srujan348/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Srujan348/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Srujan348/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
